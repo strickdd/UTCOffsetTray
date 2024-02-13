@@ -1,0 +1,6 @@
+# Id's are in IANA format, commonly used in Linux. REF: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+AdditionalTimezones:
+  - Id: "America/Denver"
+  - Id: "America/Chicago"
+  - Id: "America/Los_Angeles"
+DateTimeFormatter: "HH:mm:ss (yyyy-MM-dd)"
