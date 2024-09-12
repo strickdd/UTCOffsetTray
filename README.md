@@ -24,3 +24,6 @@ The `AdditionalTimezones` property is a list of timezone IDs in IANA format to d
 - [ ] Clean up the images
     - [ ] Cirlce is cut off on some sides
     - [ ] The text is not consistently placed
+- [ ] Set up CI and Releases
+  - [ ] Use GitHub Actions
+  - [ ] Deteremine how to do version numbering and tagging
